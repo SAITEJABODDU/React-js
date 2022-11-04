@@ -1,0 +1,49 @@
+{
+  "workouts": [
+    {
+      "title": "Running",
+      "cburn": "1200",
+      "description": "WellTried",
+      "id": 1,
+      "endTime": "2022-11-04T11:20:50.066Z",
+      "startTime": "2022-11-04T11:20:49.218Z",
+      "TotalCalories": 2522.7
+    },
+    {
+      "title": "Skipping",
+      "cburn": "13000",
+      "description": "Good",
+      "id": 2,
+      "endTime": "2022-11-04T11:12:16.772Z",
+      "startTime": "2022-11-04T11:12:15.765Z",
+      "TotalCalories": 62923.683333333334
+    },
+    {
+      "title": "walking",
+      "cburn": "200",
+      "description": "good",
+      "id": 3,
+      "startTime": "2022-11-04T11:55:36.151Z",
+      "endTime": "2022-11-04T11:55:39.123Z",
+      "TotalCalories": 1131.5966666666666
+    },
+    {
+      "title": "pushups",
+      "cburn": "500",
+      "description": "verygood",
+      "id": 4,
+      "startTime": "2022-11-04T11:55:37.860Z",
+      "endTime": "2022-11-04T11:55:47.102Z",
+      "TotalCalories": 77.01666666666667
+    },
+    {
+      "title": "cycling",
+      "cburn": "20000",
+      "description": "excellent",
+      "id": 5,
+      "startTime": "2022-11-04T11:59:06.981Z",
+      "endTime": "2022-11-04T11:59:08.998Z",
+      "TotalCalories": 22205
+    }
+  ]
+}
